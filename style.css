@@ -1,0 +1,199 @@
+body
+{
+    font-size: 15px;
+    font-family: 'Spartan', sans-serif;
+    background-image: url(images/bg-pattern-top-desktop.svg);
+   
+}
+
+.main
+{
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1440px;
+    height: 800px;
+}
+.header
+{
+    color: hsl(300, 43%, 22%);
+    font-size: 50px;
+    font-weight: 700;  
+}
+.san
+{
+    display: block;  
+}
+.san1
+{
+    
+    text-align: justify;
+    padding-left: 40px;
+}
+.text
+{
+    color:  hsl(303, 10%, 53%);
+    margin-top: -30px;
+    line-height: 25px;
+}
+.star1
+{
+    background-color:  hsl(300, 24%, 96%);
+    width: 500px;
+    height: 70px;
+    float: left;
+    margin-bottom: 25px;
+    margin-top: 70px;
+    margin-left: 60px;
+    color: hsl(300, 43%, 22%);
+    text-align: center;
+    font-weight: 700;
+    border-radius: 15px;
+}
+
+.star2
+{
+    background-color:  hsl(300, 24%, 96%);
+    width: 500px;
+    height: 70px;
+    float: left;
+    margin-bottom: 25px;
+    margin-left: 120px;
+    color: hsl(300, 43%, 22%);
+    text-align: center;
+    font-weight: 700;
+    vertical-align: middle;
+    border-radius: 15px;
+}
+.star3
+{
+    background-color:  hsl(300, 24%, 96%);
+    width: 500px;
+    height: 70px;
+    float: left;
+    margin-left: 190px;
+    color: hsl(300, 43%, 22%);
+    text-align: center;
+    font-weight: 700;
+    border-radius: 15px;
+}
+.stars1
+{
+    
+    display: flex;
+    float: left;
+    align-items:center;
+    padding-left: 50px;
+    margin-top: 25px;
+}
+.stars
+{
+    
+    display: flex;
+    float: left;
+    align-items:center;
+    margin-left: 10px;
+    margin-top: 24px;
+    font-size: 25px;
+}
+.star_text
+{
+   position: relative;
+   top: 25px;
+}
+.top
+{
+    border: 1px solid black;
+    width: 45%;
+    float: left;
+    margin-left: 40px;
+}
+.ok
+{
+    clear: both;
+}
+
+.person1, .person2, .person3
+{
+    float: left;
+    
+}
+.person1
+{
+    border-radius: 10px;
+    background-color: hsl(300, 43%, 22%);
+    width: 29%;
+    height: 260px;
+    color: hsl(0, 0%, 100%);
+    margin-top: 70px;
+    margin-left: 45px;
+}
+
+.person2
+{
+    border-radius: 10px;
+    background-color: hsl(300, 43%, 22%);
+    width: 29%;
+    height: 250px;
+    color: hsl(0, 0%, 100%);
+    margin-top: 100px;
+    margin-left: 45px;
+}
+.person3
+{
+    border-radius: 10px;
+    background-color: hsl(300, 43%, 22%);
+    width: 29%;
+    height: 250px;
+    color: hsl(0, 0%, 100%);
+    margin-top: 130px;
+    margin-left: 45px;
+   
+}
+.photo
+{
+    /*display: block;*/
+    border-radius: 60px;
+    width: 50px;
+    margin-top: 40px;
+    margin-left: 35px;
+}
+.first_text
+{
+    
+    position: relative;
+    top: -30px;
+    left: 20px;
+    font-weight: 500;
+}
+.second_text
+{
+    position: relative;
+    top: -25px;
+    left: 108px;
+    color: hsl(303, 10%, 53%);
+}
+.second1_text
+{
+    position: relative;
+    top: -7px;
+    left: -91px;
+    color: hsl(303, 10%, 53%);
+}
+.second2_text
+{
+    position: relative;
+    top: -7px;
+    left: -95px;
+    color: hsl(303, 10%, 53%);
+}
+.odstep
+{
+    padding-top: 10px;
+    line-height: 25px;
+}
+.odstep1
+{ 
+    line-height: 25px;
+    padding-top: -50px;
+}
